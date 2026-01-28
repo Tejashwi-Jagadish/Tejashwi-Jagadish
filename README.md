@@ -6,7 +6,7 @@ Robotics Master's student @ Högskolan Väst, with experience in automotive elec
 - 💡 Interests: robotics, automation, intelligent systems, automotive
 - 🌍 Based in Trollhättan, Sweden
 - 📧 Email: tejashwijagadish@gmail.com
-- 🌐 Portfolio: https://USERNAME.github.io  <!-- replace with real URL -->
+- 🌐 Portfolio:   
 
 ## 🛠 Tech & Tools
 
